@@ -13,9 +13,15 @@ export default function About() {
         />
         <div className="about__data">
           <p className="about__description">
-            Web developer, with extensive knowledge and years of experience,
-            working in web technologies and Ui / Ux design, delivering quality
-            work.
+            After graduating with a degree in Electrical and Electronic
+            Engineering, I decided to pursue my passion for programming. I
+            enrolled in a coding bootcamp and learned full-stack web
+            development. My favorite part of programming is the problem-solving
+            aspect. I love the feeling of finally figuring out a solution to a
+            problem. My core stack is React, Node.js, and MongoDB. I am also
+            familiar with Ant Design and material UI. I am always looking to
+            learn new technologies. I am currently looking for a full-time
+            position as a software developer.
           </p>
           <div className="about__info">
             <div>

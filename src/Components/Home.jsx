@@ -67,9 +67,9 @@ export default function Home() {
             <h1 className="home__title">Hi, I'am Rajnish</h1>
             <h3 className="home__subtitle">Full stack developer</h3>
             <p className="home__description">
-              Web developer, with extensive knowledge and years of experience,
-              working in web technologies and Ui / Ux design, delivering quality
-              work.
+              Web developer, with extensive knowledge and years of experience, I
+              enjoy building sites & apps, delivering quality work. My focus is
+              React.js for frontend and node.js for backend.
             </p>
             <a href="#contact" className="button button--flex">
               Contact Me
