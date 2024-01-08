@@ -35,7 +35,7 @@ export default function Footer() {
               <i className="uil uil-instagram" />
             </a>
             <a
-              href="https://twitter.com/home"
+              href="https://twitter.com"
               target="_blank"
               className="footer__social"
             >
