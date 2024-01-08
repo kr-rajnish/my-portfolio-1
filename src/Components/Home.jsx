@@ -68,8 +68,8 @@ export default function Home() {
             <h3 className="home__subtitle">Full stack developer</h3>
             <p className="home__description">
               Web developer, with extensive knowledge and years of experience, I
-              enjoy building sites & apps, delivering quality work. My focus is
-              React.js for frontend and node.js for backend.
+              enjoy building sites & apps, My focus is React.js for frontend and
+              node.js for backend and delivering quality work.
             </p>
             <a href="#contact" className="button button--flex">
               Contact Me
