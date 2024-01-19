@@ -43,6 +43,13 @@ export default function Projects() {
       Hoisted_Link: "https://blissful-stonebraker-032143.netlify.app",
     },
     {
+      image: "/assets/img/projects/dashboard.png",
+      title: "DASHBOARD",
+      description:
+        "Dashboard UI having General, Performance indicator, Table, status ghraph, Active user graph, circular Pi-chart, etc",
+      Hoisted_Link: "https://darling-meringue-ffc3a0.netlify.app/",
+    },
+    {
       image: "/assets/img/projects/Car.jpg",
       title: "Car-racing Game",
       description:
