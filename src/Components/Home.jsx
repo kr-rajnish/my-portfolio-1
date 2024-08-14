@@ -58,7 +58,7 @@ export default function Home() {
                   className="home__blob-img"
                   x="0"
                   y="0"
-                  href="assets/img/MyImageR.jpg"
+                  href="assets/img/myImageR.jpg"
                 />
               </g>
             </svg>
