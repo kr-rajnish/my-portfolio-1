@@ -46,7 +46,7 @@ export default function About() {
           <div className="about__buttons">
             <a
               download=""
-              href="/assets/pdf/Rajnish-Kumar-CV-21D23.pdf"
+              href="/assets/pdf/RAJNISH-KUMAR-Resume (3).pdf"
               className="button button--flex"
             >
               Download CV
